@@ -13,7 +13,15 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+proj.android/
+proj.blackberry/
+proj.ios/
+proj.linux/
+proj.marmalade/
+proj.mac/
+proj.win32/
+proj.winrt/
+proj.wp8/
 # Windows shortcuts
 *.lnk
 
